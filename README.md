@@ -2,7 +2,7 @@
 <hr>
 
 <p>
-I'm a Machine Learning enthusiast and a Software Developer from India. I'm also currently doing my Masters in Electrical and Computer Engineering with a specialization in Applied Artificial Intelligence from the University of Ottawa, Canada. I am passionate about Machine Learning, Deep Learning, and Neural Networks. Previously I have worked at one of the leading Information Technology firms in India as a Java Software Developer for a year. When I am not working on new projects, I usually play video games and watch NETFLIX.
+I'm a Machine Learning enthusiast and a Software Developer from India. I'm also currently doing my Masters in Electrical and Computer Engineering with a specialization in Applied Artificial Intelligence from the University of Ottawa, ON, Canada. I am passionate about Machine Learning and Deep Learning. Previously I have worked at one of the leading Information Technology firms in India as a Java Software Developer for a year. When I am not working on new projects, I usually play video games and watch NETFLIX.
 </p>
 
 ### Technologies and Tools I'm Good With
