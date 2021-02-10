@@ -17,5 +17,6 @@ I'm a Machine Learning enthusiast and a Software Developer from India. I'm also 
 - <a href="https://github.com/TheJokeRxDC/heart-disease-prediction-system-using-machine-learning"> Heart Disease Prediction System Using Machine Learning <img src="https://img.shields.io/badge/Project%20Status-Open-brightgreen"></a>
 - Movie Recommendation System Using Machine Learning <img src="https://img.shields.io/badge/Project%20Status-Proposed-orange">
 - <a href="https://github.com/TheJokeRxDC/Bulldozer-Price-Prediction-System-Using-Machine-Learning.git">Bulldozer Price Prediction System Using Machine Learning <img src="https://img.shields.io/badge/Project%20Status-Open-brightgreen"></a>
+- Authorship Prediction System Using Natural Language Processing <img src="https://img.shields.io/badge/Project%20Status-Proposed-orange">
 
 [![Neelanjan's github stats](https://github-readme-stats.vercel.app/api?username=TheJokeRxDC&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
