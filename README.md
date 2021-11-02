@@ -1,4 +1,5 @@
 ### Hey there I'm Neelanjan! 👋
+![Made with love in India](https://madewithlove.now.sh/in?heart=true&colorB=%23f94f06&template=for-the-badge) <br> <br>
 <a href='https://www.linkedin.com/in/neelanjanacharya/'>![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href='https://www.facebook.com/skyler.neelanjan'>![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
 <a href='https://www.instagram.com/xx_ne.el_xx/'>![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
@@ -54,11 +55,14 @@ When I'm not coding, I'm usually playing video games or watching NETFLIX 😅
 ### Projects I'm Working On
 <hr>
 
-- <a href="https://github.com/TheJokeRxDC/Indian-General-Elections-2019-Data-Analysis-And-Predictions-Using-Machine-Learning">Indian General Elections 2019 : Data Analysis and Predictions Using Machine Learning <img src="https://img.shields.io/badge/Project%20Status-Open-brightgreen"></a>
-- <a href="https://github.com/TheJokeRxDC/heart-disease-prediction-system-using-machine-learning"> Heart Disease Prediction System Using Machine Learning <img src="https://img.shields.io/badge/Project%20Status-Open-brightgreen"></a>
-- <a href="https://github.com/TheJokeRxDC/Bulldozer-Price-Prediction-System-Using-Machine-Learning.git"> Bulldozer Price Prediction System Using Machine Learning <img src="https://img.shields.io/badge/Project%20Status-Open-brightgreen"></a>
-- <a href="https://github.com/TheJokeRxDC/disaster-tweets-classification-using-NLP.git"> Disaster Tweets Classification Using Natural Language Processing <img src="https://img.shields.io/badge/Project%20Status-Open-brightgreen"></a>
+|  Project Name 	| Last Updated  	| Status  	|
+|---	            |---	            |---	      |
+| <a href="https://github.com/TheJokeRxDC/Indian-General-Elections-2019-Data-Analysis-And-Predictions-Using-Machine-Learning">Indian General Elections 2019 : Data Analysis and Predictions Using Machine Learning </a> 	|   	|   <img src="https://img.shields.io/badge/Project%20Status-Open-brightgreen">	|
+| <a href="https://github.com/TheJokeRxDC/heart-disease-prediction-system-using-machine-learning"> Heart Disease Prediction System Using Machine Learning </a> 	|   	|   <img src="https://img.shields.io/badge/Project%20Status-Open-brightgreen">	|
+| <a href="https://github.com/TheJokeRxDC/Bulldozer-Price-Prediction-System-Using-Machine-Learning.git"> Bulldozer Price Prediction System Using Machine Learning </a> 	|   	|   <img src="https://img.shields.io/badge/Project%20Status-Open-brightgreen">	|
+| <a href="https://github.com/TheJokeRxDC/disaster-tweets-classification-using-NLP.git"> Disaster Tweets Classification Using Natural Language Processing </a> 	|   	|   <img src="https://img.shields.io/badge/Project%20Status-Open-brightgreen">	|
 
+<hr>
 <br>
 
 [![Neelanjan's github stats](https://github-readme-stats.vercel.app/api?username=TheJokeRxDC&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
