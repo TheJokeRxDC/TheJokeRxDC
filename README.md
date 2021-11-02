@@ -1,8 +1,10 @@
-### Hey there I'm Neelanjan! 👋
-![Made with love in India](https://madewithlove.now.sh/in?heart=true&colorB=%23f94f06&template=for-the-badge) <br> <br>
-<a href='https://www.linkedin.com/in/neelanjanacharya/'>![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href='https://www.facebook.com/skyler.neelanjan'>![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
-<a href='https://www.instagram.com/xx_ne.el_xx/'>![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+### Hey there I'm Neelanjan! 👋 <img src="https://madewithlove.now.sh/in?heart=true&colorB=%23f94f06&template=for-the-badge" align="right"> <br> <br>
+
+<p align="center">
+  <a href='https://www.linkedin.com/in/neelanjanacharya/'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href='https://www.facebook.com/skyler.neelanjan'><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href='https://www.instagram.com/xx_ne.el_xx/'><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ </p>
 <hr>
 
 <p>
@@ -13,7 +15,7 @@ Before my graduate studies, I have experience working as a Full-Stack Developer,
 When I'm not coding, I'm usually playing video games or watching NETFLIX 😅
 </p>
 
-### Technologies and Tools I'm Good With <!-- Get Badges Here : https://github.com/Ileriayo/markdown-badges#shortcuts -->
+### Technologies and Tools I'm Good With 🧰 <!-- Get Badges Here : https://github.com/Ileriayo/markdown-badges#shortcuts -->
 <hr>
 <!-- Machine Learning and Deep Learning -->
 
@@ -52,7 +54,7 @@ When I'm not coding, I'm usually playing video games or watching NETFLIX 😅
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <!-- Git -->
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) <!-- Github -->
 
-### Projects I'm Working On
+### Projects I'm Working On 🚧
 <hr>
 
 |  Project Name 	| Last Updated  	| Status  	|
@@ -65,4 +67,6 @@ When I'm not coding, I'm usually playing video games or watching NETFLIX 😅
 <hr>
 <br>
 
-[![Neelanjan's github stats](https://github-readme-stats.vercel.app/api?username=TheJokeRxDC&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheJokeRxDC&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)">
+</p>
