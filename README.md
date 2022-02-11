@@ -61,8 +61,9 @@ When I'm not coding, I'm usually playing video games or watching NETFLIX 😅
 |---	            |---	            |---	      |
 | <a href="https://github.com/TheJokeRxDC/Indian-General-Elections-2019-Data-Analysis-And-Predictions-Using-Machine-Learning">Indian General Elections 2019 : Data Analysis and Predictions Using Machine Learning </a> 	|   	|   <img src="https://img.shields.io/badge/Project%20Status-Open-brightgreen">	|
 | <a href="https://github.com/TheJokeRxDC/heart-disease-prediction-system-using-machine-learning"> Heart Disease Prediction System Using Machine Learning </a> 	|   	|   <img src="https://img.shields.io/badge/Project%20Status-Open-brightgreen">	|
-| <a href="https://github.com/TheJokeRxDC/Bulldozer-Price-Prediction-System-Using-Machine-Learning.git"> Bulldozer Price Prediction System Using Machine Learning </a> 	|   	|   <img src="https://img.shields.io/badge/Project%20Status-Open-brightgreen">	|
+| <a href="https://github.com/TheJokeRxDC/Bulldozer-Price-Prediction-System-Using-Machine-Learning.git"> Bulldozer Price Prediction System Using Machine Learning </a> 	| <img src="https://img.shields.io/badge/Last%20Commit-February 2022-brightgreen" hspace=20>   	|   <img src="https://img.shields.io/badge/Project%20Status-Open-brightgreen">	|
 | <a href="https://github.com/TheJokeRxDC/disaster-tweets-classification-using-NLP.git"> Disaster Tweets Classification Using Natural Language Processing </a> 	|   	|   <img src="https://img.shields.io/badge/Project%20Status-Open-brightgreen">	|
+| <a href="https://github.com/TheJokeRxDC/dog-breed-identification-system-using-deep-learning"> Dog Breed Identification System Using Deep Learning </a> 	|  <img src="https://img.shields.io/badge/Last%20Commit-February 2022-brightgreen" hspace=20>  	|   <img src="https://img.shields.io/badge/Project%20Status-Open-brightgreen">	|
 
 <hr>
 <br>
